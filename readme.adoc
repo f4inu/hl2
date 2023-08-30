@@ -1,0 +1,17 @@
+= Some tips and useful files for Hermes Lite 2 SDR transceiver
+
+:toc:
+
+== Hercules DJControl Compact midi controller
+
+I found this controller at a garage sale for 5€, intending to use it as a midi controller for piHPSDR. 
+
+As one would expect, it has various buttons and potentiometers. But with the use of "mode" and "shift" keys, it expands the number of available controls.
+
+=== ODS spreadsheet 
+
+This file contains the midi codes of the buttons and controls and on which piHPSDR function they are mapped. 
+
+=== Midi file
+
+This is the file to use with piHPSDR.
